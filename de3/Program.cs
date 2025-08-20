@@ -16,7 +16,7 @@ class Program
     {
         // cau 1
         Console.WriteLine("Nhập vào một số nguyên:");
-        int n = int.Parse(Console.ReadLine());
+        int n = int.Parse(Console.ReadLine() ?? "0");
 
         // a) In bảng cửu chương của số n
         Console.WriteLine($"Bảng cửu chương của {n}:");
@@ -50,18 +50,18 @@ class Program
 
         // d) Nhập thêm m, kiểm tra n có chia hết cho m không
         Console.WriteLine("Nhập vào một số nguyên m:");
-        int m = int.Parse(Console.ReadLine());
+        int m = int.Parse(Console.ReadLine() ?? "0");
         bool isDivisible = n % m == 0;
         Console.WriteLine($"{n} có chia hết cho {m} không: {isDivisible}");
 
         // cau 2
         Console.WriteLine("Nhập vào số lượng phần tử:");
-        int n = int.Parse(Console.ReadLine());
-        double[] arr = new double[n];
-        for (int i = 0; i < n; i++)
+        int count = int.Parse(Console.ReadLine() ?? "0");
+        double[] arr = new double[count];
+        for (int i = 0; i < count; i++)
         {
             Console.WriteLine($"Nhập phần tử thứ {i + 1}:");
-            arr[i] = double.Parse(Console.ReadLine());
+            arr[i] = double.Parse(Console.ReadLine() ?? "0");
         }
 
         // b) Tìm giá trị trung bình cộng của dãy số.
@@ -69,8 +69,8 @@ class Program
         Console.WriteLine($"Giá trị trung bình cộng của dãy số là: {average}");
 
         // c) Đếm số phần tử lớn hơn trung bình cộng.
-        int count = arr.Count(x => x > average);
-        Console.WriteLine($"Số phần tử lớn hơn trung bình cộng là: {count}");
+        int countAboveAverage = arr.Count(x => x > average);
+        Console.WriteLine($"Số phần tử lớn hơn trung bình cộng là: {countAboveAverage}");
 
         // d) Tính tổng các phần tử âm trong dãy số.
         double sumNegative = arr.Where(x => x < 0).Sum();

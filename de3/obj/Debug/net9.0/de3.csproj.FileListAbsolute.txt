@@ -1,0 +1,15 @@
+C:\Users\ASUS\Downloads\kiem tra\de3\obj\Debug\net9.0\de3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\kiem tra\de3\obj\Debug\net9.0\de3.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\kiem tra\de3\obj\Debug\net9.0\de3.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\kiem tra\de3\obj\Debug\net9.0\de3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\kiem tra\de3\obj\Debug\net9.0\de3.sourcelink.json
+C:\Users\ASUS\Downloads\kiem tra\de3\bin\Debug\net9.0\de3.exe
+C:\Users\ASUS\Downloads\kiem tra\de3\bin\Debug\net9.0\de3.deps.json
+C:\Users\ASUS\Downloads\kiem tra\de3\bin\Debug\net9.0\de3.runtimeconfig.json
+C:\Users\ASUS\Downloads\kiem tra\de3\bin\Debug\net9.0\de3.dll
+C:\Users\ASUS\Downloads\kiem tra\de3\bin\Debug\net9.0\de3.pdb
+C:\Users\ASUS\Downloads\kiem tra\de3\obj\Debug\net9.0\de3.dll
+C:\Users\ASUS\Downloads\kiem tra\de3\obj\Debug\net9.0\refint\de3.dll
+C:\Users\ASUS\Downloads\kiem tra\de3\obj\Debug\net9.0\de3.pdb
+C:\Users\ASUS\Downloads\kiem tra\de3\obj\Debug\net9.0\de3.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\kiem tra\de3\obj\Debug\net9.0\ref\de3.dll
