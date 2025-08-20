@@ -1,0 +1,14 @@
+C:\Users\ASUS\Downloads\kiem tra\de1\bin\Debug\net9.0\de1.exe
+C:\Users\ASUS\Downloads\kiem tra\de1\bin\Debug\net9.0\de1.deps.json
+C:\Users\ASUS\Downloads\kiem tra\de1\bin\Debug\net9.0\de1.runtimeconfig.json
+C:\Users\ASUS\Downloads\kiem tra\de1\bin\Debug\net9.0\de1.dll
+C:\Users\ASUS\Downloads\kiem tra\de1\bin\Debug\net9.0\de1.pdb
+C:\Users\ASUS\Downloads\kiem tra\de1\obj\Debug\net9.0\de1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\kiem tra\de1\obj\Debug\net9.0\de1.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\kiem tra\de1\obj\Debug\net9.0\de1.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\kiem tra\de1\obj\Debug\net9.0\de1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\kiem tra\de1\obj\Debug\net9.0\de1.dll
+C:\Users\ASUS\Downloads\kiem tra\de1\obj\Debug\net9.0\refint\de1.dll
+C:\Users\ASUS\Downloads\kiem tra\de1\obj\Debug\net9.0\de1.pdb
+C:\Users\ASUS\Downloads\kiem tra\de1\obj\Debug\net9.0\de1.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\kiem tra\de1\obj\Debug\net9.0\ref\de1.dll
